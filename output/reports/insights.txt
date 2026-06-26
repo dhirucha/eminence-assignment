@@ -1,0 +1,76 @@
+Total Mentions : 99
+
+==============================
+Sentiment Distribution
+==============================
+Sentiment
+Neutral     52
+Positive    36
+Negative    11
+
+==============================
+Driver Distribution
+==============================
+Driver
+Brand Perception                  72
+User Experience                   21
+Unknown                            3
+Responsible Business Practices     3
+
+==============================
+Sub-driver Distribution
+==============================
+Sub driver
+Thought Leadership                            51
+Product Strategy                              19
+Product & Service Quality                     12
+Digital & Omnichannel Experience               8
+Unknown                                        3
+Brand Visibility & Marketing                   2
+Regulatory Compliance & Ethical Governance     2
+Social Impact & Community (CSR)                1
+Customer Support & Complaint Resolution        1
+
+==============================
+Top Discussion Themes
+==============================
+- amc
+- equity
+- fund
+- funds
+- growth
+- icici
+- india
+- investors
+- long
+- market
+- mutual
+- naren
+- prudential
+- stock
+- stocks
+
+==============================
+Positive Reputation Drivers
+==============================
+Driver
+Brand Perception                  29
+User Experience                    4
+Unknown                            2
+Responsible Business Practices     1
+
+==============================
+Negative Reputation Drivers
+==============================
+Driver
+User Experience    10
+Unknown             1
+
+==============================
+Key Findings
+==============================
+• Most discussions relate to Brand Perception (72 mentions).
+• Neutral sentiment dominates with 52 mentions.
+• Positive sentiment (36) significantly exceeds Negative sentiment (11).
+• Thought Leadership and Product Strategy are the dominant sub-drivers.
+• Responsible Business Practices receive comparatively limited coverage.

@@ -1,0 +1,12 @@
+
+Records after cleaning: 99
+
+Duplicate rows removed
+
+Sentiment standardized
+
+Missing text handled
+
+Combined text created
+
+Dataset ready for AI classification
